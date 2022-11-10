@@ -1,4 +1,4 @@
-### 𝘏𝘐 wave, 𝘐𝘵'𝘴 𝘮𝘦 Ashebir ethiopia
+## 𝘏𝘐 👋, 𝘐𝘵'𝘴 𝘮𝘦 Ashebir ethiopia
 
 <!--
 **Ashebir07/Ashebir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
