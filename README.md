@@ -61,6 +61,20 @@
 <li><a href="https://github.com/Ashebir07/softwarerequirement-projects">Online Bidding System | Online Bidding System </a> - Online Bidding means an electronic procurement process in which the Authority receives bids from vendors for goods, services, construction, or information services over the Internet in a real-time, competitive bidding event. .</li>
 
 
+<h2 dir="auto"><a id="user-content-find-me" class="anchor" aria-hidden="true" href="#find-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Find Me</h2>
+
+
+
+
+<p dir="auto" align="center">
+  <a href="https://github.com/Ashebir07"><img src="https://github.com/fluidicon.png" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashebir-wondemeneh-47b6051a2/" rel="nofollow"><img src="https://camo.githubusercontent.com/68b6b1fabe852c6adf8f319b6a7fcb187504989ad5c9495a4e0666f292c72278/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f696e6669636f6e732f3531322f6c696e6b6564696e2e706e67" data-canonical-src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailtoashu07wondemeneh@gmail.com"><img src="https://camo.githubusercontent.com/e5ceae95fee4fbb3690783d8631805e2484485937a8f526960c745e984fafa7a/68747470733a2f2f73736c2e677374617469632e636f6d2f75692f76312f69636f6e732f6d61696c2f7266722f676d61696c2e69636f" data-canonical-src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/sco_ped" rel="nofollow"><img src="https://camo.githubusercontent.com/4339949bfd10b0f790bd7df45f0cb9c498cded2e613b4740c94617ef83e1548c/68747470733a2f2f74656c656772616d2e6f72672f696d672f776562736974655f69636f6e2e737667" data-canonical-src="https://telegram.org/img/website_icon.svg" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/wendirad-demelash.1" rel="nofollow"><img src="https://camo.githubusercontent.com/6eca6b67ba0caa7343b88b7769e6521863bc9023c93acc80ec3e3ee95d6911c6/68747470733a2f2f7374617469632e78782e666263646e2e6e65742f727372632e7068702f79442f722f64345a4956582d35432d622e69636f" data-canonical-src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Ashebir07" rel="nofollow"><img src="https://camo.githubusercontent.com/31a742affd790d0cca965213f3fa59cc4ee09401d102590c508ae9d77023360c/68747470733a2f2f6162732e7477696d672e636f6d2f66617669636f6e732f747769747465722e322e69636f" data-canonical-src="https://abs.twimg.com/favicons/twitter.2.ico" style="max-width: 100%;" height="50"></a>
+</p>
+
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
