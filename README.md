@@ -56,8 +56,9 @@
 <li><a href="https://github.com/rebunitech/deterministic.finite.automata">Deterministic Finite Automata (DFA)</a> - Deterministic Finite Automata (DFA) Implementation.</li>
 <li><a href="https://github.com/rebunitech/rebuni.online.education.platform">Rebuni Online Education Platform</a> - Web based online education platform using native PHP with MVC.</li>
 
-<li><a href="https://github.com/TenaSoftware/tena.eticket">House Rental Managemenet system | Online Rental system </a> - House rental management system is an online web based platform this project working on house tenants and house owners in Ethiopia to create a better rental management system in the whole country.</li>
+<li><a href="https://github.com/Ashebir07/softwarerequirement-projects">House Rental Managemenet system | Online Rental system </a> - House rental management system is an online web based platform this project working on house tenants and house owners in Ethiopia to create a better rental management system in the whole country.</li>
 
+<li><a href="https://github.com/Ashebir07/softwarerequirement-projects">House Rental Managemenet system | Online Rental system </a> - House rental management system is an online web based platform this project working on house tenants and house owners in Ethiopia to create a better rental management system in the whole country.</li>
 
 
 <!-- - 👯 I’m looking to collaborate on 
