@@ -75,6 +75,21 @@
   <a href="https://twitter.com/Ashebir07" rel="nofollow"><img src="https://camo.githubusercontent.com/31a742affd790d0cca965213f3fa59cc4ee09401d102590c508ae9d77023360c/68747470733a2f2f6162732e7477696d672e636f6d2f66617669636f6e732f747769747465722e322e69636f" data-canonical-src="https://abs.twimg.com/favicons/twitter.2.ico" style="max-width: 100%;" height="50"></a>
 </p>
 
+
+<h3 dir="auto"><a id="user-content--skills" class="anchor" aria-hidden="true" href="#-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png"><img class="emoji" alt="wrench" src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" width="20" height="20"></g-emoji> Skills</h3>
+
+
+<h4 dir="auto"><a id="user-content-️-programming-languages" class="anchor" aria-hidden="true" href="#️-programming-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="pencil2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png"><img class="emoji" alt="pencil2" src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png" width="20" height="20"></g-emoji> Programming Languages</h4>
+
+
+
+
+
+<img src="https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
+
+
+
+
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
