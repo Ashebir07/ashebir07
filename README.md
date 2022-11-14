@@ -87,6 +87,22 @@
 
 <img src="https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
 
+<img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;">
+
+
+<img src="https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++" data-canonical-src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;">
+
+
+<img src="https://camo.githubusercontent.com/50d2027397e541951d303b62cbcc352ed8c9b56db24df799b8c1acb9a2a17f66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c2d4632393131312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="SQL" data-canonical-src="https://img.shields.io/badge/sql-F29111.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/38fbd58ed96834f7a37e0bc42680d8c1e0a00dbd4e793f79fb35e831da83a9e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d3839393362652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d253233463744463145" alt="Php" data-canonical-src="https://img.shields.io/badge/php-8993be.svg?style=for-the-badge&amp;logo=php&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/34ec22b52f34d809d1bfe134beb1409f1cbc1d3903c5907de891be0648d34eda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76696d2d3030363430302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465" alt="Vim" data-canonical-src="https://img.shields.io/badge/vim-006400.svg?style=for-the-badge&amp;logo=vim&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/d3b7ca9c79ccbb60afaeb77088c343d577e76689226e33230f08ab0114d7118d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e2d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e266c6f676f436f6c6f723d253233463744463145" alt="Json" data-canonical-src="https://img.shields.io/badge/json-000000.svg?style=for-the-badge&amp;logo=JSON&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
+
+
 
 
 
