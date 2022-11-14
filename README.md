@@ -6,3 +6,17 @@
 </p>
 
 <p dir="auto" align="justify">ᴍᴏᴛɪᴠᴀᴛᴇᴅ  ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ and Data science entuiasist ᴛʀᴀɪɴᴇᴅ ᴡɪᴛʜ 2+ ʏᴇᴀʀs ᴏғ ᴇxᴘᴇʀɪᴇɴᴄᴇ. ʜɪɢʜʟʏ ᴇғғᴇᴄᴛɪᴠᴇ ᴀᴛ ʙᴀᴄᴋᴇɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ  ᴀɴᴅ ᴛᴀsᴋ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ. ᴇxᴄᴇᴘᴛɪᴏɴᴀʟ ɪɴᴛᴇʀᴘᴇʀsᴏɴᴀʟ, ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ, ᴀɴᴅ ᴍᴜʟᴛɪᴛᴀsᴋɪɴɢ ᴀʙɪʟɪᴛɪᴇs. ᴘʀᴇᴘᴀʀᴇᴅ ᴛᴏ ᴅᴇʟɪᴠᴇʀ ғɪʀsᴛ-ʀᴀᴛᴇ ʀᴇsᴜʟᴛs ᴛᴏ ᴄʟɪᴇɴᴛs. ɪ ᴀᴍ ᴀ ʏᴏᴜɴɢ ᴛᴀʟᴇɴᴛᴇᴅ ᴀғʀɪᴄᴀɴ, ᴀ sᴛʀᴏɴɢ ᴍᴏᴛɪᴠᴀᴛɪᴏɴ ғᴏʀ ᴡᴏʀᴋ, ᴀɴᴅ ʜᴀs sᴋɪʟʟs ᴡɪᴛʜ ʙᴇsᴛ ᴘʀᴀᴄᴛɪᴄᴇs. ɪ ᴄᴀɴ ᴡᴏʀᴋ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴠᴇʟʏ ɪɴ ᴅɪғғᴇʀᴇɴᴛ ᴡᴏʀᴋɪɴɢ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛs ᴀɴᴅ ᴛᴇᴀᴍ ᴄᴏᴍᴘᴏsɪᴛɪᴏɴs. ɪ ᴀᴍ ᴀʟᴡᴀʏs ʀᴇᴀᴅʏ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ɴᴇᴡ ɪᴅᴇᴀs ᴛᴏ ʙᴜɪʟᴅ ᴀ sᴛʀᴏɴɢ ᴛᴇᴄʜɴɪᴄᴀʟ ʙᴀᴄᴋɢʀᴏᴜɴᴅ, ᴀʟsᴏ ᴄᴀɴ ᴡᴏʀᴋ ᴏɴ ᴍᴏᴅɪғʏɪɴɢ ᴇxɪsᴛɪɴɢ ᴏʀ ᴀᴅᴅɪɴɢ ɴᴇᴡ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ᴛᴏ ᴛʜᴇ ᴇxɪsᴛɪɴɢ sʏsᴛᴇᴍ.</p>
+
+
+<li><a href="https://github.com/Ashebir07/softwarerequirement-projects">Online Bidding System | Online Bidding System </a> - Online Bidding means an electronic procurement process in which the Authority receives bids from vendors for goods, services, construction, or information services over the Internet in a real-time, competitive bidding event. .</li>
+
+<p dir="auto" align="center">
+  <a href="https://github.com/Ashebir07"><img src="https://github.com/fluidicon.png" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashebir-wondemeneh-47b6051a2/" rel="nofollow"><img src="https://camo.githubusercontent.com/68b6b1fabe852c6adf8f319b6a7fcb187504989ad5c9495a4e0666f292c72278/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f696e6669636f6e732f3531322f6c696e6b6564696e2e706e67" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="/Ashebir07/Ashebir07/blob/main/mailtoashu07wondemeneh@gmail.com"><img src="https://camo.githubusercontent.com/e5ceae95fee4fbb3690783d8631805e2484485937a8f526960c745e984fafa7a/68747470733a2f2f73736c2e677374617469632e636f6d2f75692f76312f69636f6e732f6d61696c2f7266722f676d61696c2e69636f" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/Abuchuuuu" rel="nofollow"><img src="https://camo.githubusercontent.com/4339949bfd10b0f790bd7df45f0cb9c498cded2e613b4740c94617ef83e1548c/68747470733a2f2f74656c656772616d2e6f72672f696d672f776562736974655f69636f6e2e737667" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/ashebir wondemene" rel="nofollow"><img src="https://camo.githubusercontent.com/6eca6b67ba0caa7343b88b7769e6521863bc9023c93acc80ec3e3ee95d6911c6/68747470733a2f2f7374617469632e78782e666263646e2e6e65742f727372632e7068702f79442f722f64345a4956582d35432d622e69636f" style="max-width: 100%;" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Ashebir07" rel="nofollow"><img src="https://camo.githubusercontent.com/31a742affd790d0cca965213f3fa59cc4ee09401d102590c508ae9d77023360c/68747470733a2f2f6162732e7477696d672e636f6d2f66617669636f6e732f747769747465722e322e69636f" style="max-width: 100%;" height="50"></a>
+</p>
+
+
